@@ -1,0 +1,15 @@
+{
+  "name": "ulta-node-docker",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+      "start": "node server.js"
+  },
+"dependencies": {
+    "express": "^4.13.3"
+  },
+  "author": "vr12373n@pace.edu",
+  "license": "ISC"
+}

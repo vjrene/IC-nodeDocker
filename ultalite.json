@@ -1,0 +1,203 @@
+{
+    "cos1": {
+        "id":1,
+        "cid": "L001",
+        "brand": "Colourpop",
+        "name": "LAX",
+        "color": "red",
+        "price": 6.00,
+        "inStock": true 
+    },
+
+
+    "cos2": {
+        "id":2,
+        "cid": "L002",
+        "brand": "Colourpop",
+        "name": "Embellish",
+        "color": "brown",
+        "price": 6.00,
+        "inStock": true
+    },
+
+    "cos3":{
+        "id":3,
+        "cid": "L003",
+        "brand": "MAC",
+        "name": "Candy Yum Yum",
+        "color": "pink",
+        "price": 17.00,
+        "inStock": true
+    },
+
+
+"cos4":{
+        "id":4,
+        "cid": "L004",
+        "brand": "MAC",
+        "name": "Heroine",
+        "color": "purple",
+        "price": 17.00,
+        "inStock": true
+    },
+
+
+    "cos5":{
+        "id":5,
+        "cid": "L005",
+        "brand": "Wet n Wild",
+        "name": "Mochalicious",
+        "color": "brown",
+        "price": 1.99,
+        "inStock": false
+    },
+
+
+    "cos6":{
+        "id":6,
+        "cid": "L006",
+        "brand": "Wet n Wild",
+        "name": "Purty Persimmon",
+        "color": "orange",
+        "price": 1.99,
+        "inStock": false
+    },
+
+
+    "cos7":{
+        "id":7,
+        "cid": "L007",
+        "brand": "NYX",
+        "name": "Abu Dhabi",
+        "color": "orange beige",
+        "price": 6.00,
+        "inStock": true
+    },
+
+
+    "cos8":{
+        "id":8,
+        "cid": "L009",
+        "brand": "NYX",
+        "name": "Monte Carlo",
+        "color": "red",
+        "price": 6.00,
+        "inStock": true
+    },
+
+
+
+    "cos9":{
+        "id":9,
+        "cid": "F001",
+        "brand": "Maybelline",
+        "shade": "355 Coconut",
+        "skinTone": "deep",
+        "finish": "matte",
+        "price": 5.99,
+        "inStock": true
+    },
+
+
+    "cos10":{
+        "id":10,
+        "cid": "F002",
+        "brand": "Maybelline",
+        "shade": "360 Mocha",
+        "skinTone": "dark",
+        "finish": "matte",
+        "price": 5.99,
+        "inStock": true
+    },
+
+
+    "cos11":{
+        "id":11,
+        "cid": "F004",
+        "brand": "Make Up Forever",
+        "shade": "Y205 Alabaster",
+        "skinTone": "fair",
+        "finish": "dewy",
+        "price": 43.00,
+        "inStock": false
+    },
+
+
+    "cos12":{
+        "id":12,
+        "cid": "F005",
+        "brand": "Clinique",
+        "shade": "Golden",
+        "skinTone": "medium",
+        "finish": "dewy",
+        "price": 25.00,
+        "inStock": true
+    },
+
+
+    "cos13":{
+        "id":13,
+        "cid":"EP001",
+        "brand":"Anastasia Beverly Hills",
+        "name": "Modern Renaissance Eye Shadow Palette",
+        "price": 42.00,
+        "inStock": true
+    },
+
+
+    "cos14":{
+        "id":14,
+        "cid":"EP002",
+        "brand":"Too Faced",
+        "name": "Sweet Peach Eye Shadow Collection Palette",
+        "price": 49.00,
+        "inStock": true
+    },
+
+    "cos15":{
+        "id":15,
+        "cid":"EP003",
+        "brand":"Urban Decay",
+        "name": "Naked3 Palette",
+        "price": 54.00,
+        "inStock": false
+    },
+
+    "cos16":{
+        "id":16,
+        "cid":"EP004",
+        "brand":"Nars",
+        "name": "NARSissist Loaded Eyeshadow Palette",
+        "price": 59.00,
+        "inStock": true
+    },
+
+
+    "cos17":{
+        "id":17,
+        "cid":"EP005",
+        "brand":"Makeup Revolution",
+        "name": "Death by Chocolate Palette",
+        "price": 15.00,
+        "inStock": true
+    },
+
+
+    "cos18":{
+        "id":18,
+        "cid":"EP006",
+        "brand":"NYX",
+        "name": "Ultimate Shadow Palette Brights",
+        "price": 18.00,
+        "inStock": true
+    },
+
+    "cos19":{
+        "id":19,
+        "cid":"EP007",
+        "brand":"NYX",
+        "name": "Ultimate Shadow Palette Warm Neutrals",
+        "price": 18.00,
+        "inStock": true
+    }
+}
